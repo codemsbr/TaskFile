@@ -1,0 +1,17 @@
+C:\CodeTasks\TaskFile\bin\Debug\net6.0\TaskFile.exe
+C:\CodeTasks\TaskFile\bin\Debug\net6.0\TaskFile.deps.json
+C:\CodeTasks\TaskFile\bin\Debug\net6.0\TaskFile.runtimeconfig.json
+C:\CodeTasks\TaskFile\bin\Debug\net6.0\TaskFile.dll
+C:\CodeTasks\TaskFile\bin\Debug\net6.0\TaskFile.pdb
+C:\CodeTasks\TaskFile\obj\Debug\net6.0\TaskFile.csproj.AssemblyReference.cache
+C:\CodeTasks\TaskFile\obj\Debug\net6.0\TaskFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeTasks\TaskFile\obj\Debug\net6.0\TaskFile.AssemblyInfoInputs.cache
+C:\CodeTasks\TaskFile\obj\Debug\net6.0\TaskFile.AssemblyInfo.cs
+C:\CodeTasks\TaskFile\obj\Debug\net6.0\TaskFile.csproj.CoreCompileInputs.cache
+C:\CodeTasks\TaskFile\obj\Debug\net6.0\TaskFile.dll
+C:\CodeTasks\TaskFile\obj\Debug\net6.0\refint\TaskFile.dll
+C:\CodeTasks\TaskFile\obj\Debug\net6.0\TaskFile.pdb
+C:\CodeTasks\TaskFile\obj\Debug\net6.0\TaskFile.genruntimeconfig.cache
+C:\CodeTasks\TaskFile\obj\Debug\net6.0\ref\TaskFile.dll
+C:\CodeTasks\TaskFile\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\CodeTasks\TaskFile\obj\Debug\net6.0\TaskFile.csproj.CopyComplete
